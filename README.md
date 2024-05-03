@@ -2,7 +2,7 @@
 
 
 ## About
-Albion Online Autolooter is a Python-based tool designed to automate the looting process in Albion Online, an MMORPG developed by Sandbox Interactive. This tool enhances the efficiency of gathering resources by automatically looting nearby items in the game world.
+Albion Online Autolooter is a tool designed to automate the looting process in Albion Online. This tool enhances the efficiency by automatically looting items in the game world.
 
 ## Features
 - Automatic looting of nearby items in Albion Online.
