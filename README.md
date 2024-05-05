@@ -8,7 +8,7 @@ Albion Online Autolooter is a tool designed to automate the looting process in A
 - Automatic looting of nearby items in Albion Online.
 - Customizable settings for looting preferences.
 - Minimalistic and efficient design.
-- Easy to set up and use
+- Easy to set up and use.
 
 ## Usage
 1. Double-click the `AOLooter.exe` file to start the program.
